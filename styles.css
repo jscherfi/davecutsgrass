@@ -1,0 +1,41 @@
+
+
+body {
+    background-color: #F1F0E8;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    color: #198754;
+    font-weight: 700;
+}
+
+.nav-container {
+    background-color: #198754;
+}
+
+.nav-link {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #B0D9B1;
+}
+
+.feature-section {
+    background-color: #fbfaf8;
+}
+
+.feature-text {
+    color:#198754;
+}
+
+h6 {
+    color:#198754;
+}
+
+.contact-header {
+    text-align: center;
+    margin-top: 50px;
+}
